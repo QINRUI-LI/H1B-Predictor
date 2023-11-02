@@ -1,0 +1,21 @@
+Done - Terry 4/14 1. salary range chart
+Done - Terry 4/14 2. search job by salary range
+Done - Legend before 4/16 3. feature importance chart
+Done - Tony 4/14 5. select by year dropdown for 1.Worksite by State; 2.Cases by Employer; 3.Cases by Job Title 
+
+Today: TO DO 
+Salary range chart
+
+feature importance chart 前后端
+
+state tooltip: 1. state cases, 2. certification rate, 3.average salary, 4.top 3 employer 
+
+interface of prediction late afternoon/evening 前后端
+
+
+Deliverable:
+scratch first version
+final report
+Readme poster 
+
+
